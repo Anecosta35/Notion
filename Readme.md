@@ -11,7 +11,7 @@ Ele existe tanto na versão de navegador, quanto em aplicativo e desktop, que po
 
 ### Como utilizar
 
-Basta entrar no [site](https://ntn.so/Aneline-Silva) e criar a sua conta.
+Basta entrar no [site](https://github.com/Anecosta35/Notion.git) e criar a sua conta.
 
 Depois você fará um tutorial no formato de "road map" pra entender como funciona para criar tabelas, listas ou usar os templates já prontos.
 
