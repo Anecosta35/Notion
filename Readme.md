@@ -1,10 +1,6 @@
 
 # Como organizo minha vida no Notion e um tour pelo meu Workspace
 
-[Nesse vídeo](https://www.youtube.com/watch?v=uy90T_4F1xE) mostrarem como organizo a minha rotina no Notion 
-
-![Capa do meu Notion](https://cdn.discordapp.com/attachments/639956127056134178/887325164440780830/unknown.png)
-
 ### O que é o Notion na pratica?
 
 É uma plataforma para organização de vida! Sério gente, qualquer coisa que você queira organizar de certa forma você consegue fazer por aqui.
@@ -15,7 +11,7 @@ Ele existe tanto na versão de navegador, quanto em aplicativo e desktop, que po
 
 ### Como utilizar
 
-Basta entrar no [site](https://ntn.so/rafaellanotion) e criar a sua conta.
+Basta entrar no [site](https://ntn.so/Aneline-Silva) e criar a sua conta.
 
 Depois você fará um tutorial no formato de "road map" pra entender como funciona para criar tabelas, listas ou usar os templates já prontos.
 
@@ -32,8 +28,7 @@ No caso, o meu pessoal apenas eu tenho acesso e vou mostrar como que organizo mi
 **2. Diário:** aqui organizo de fato o meu dia, separando todas as minhas tarefas em 6 colunas (lista de desejos, semana, dia seguinte, backlog, doing, done)
 
 **3. Calendário:** onde deixo uma visão mais macroscópica de eventos importantes no mês
-
-**4. Ideias de Conteúdo:** como vocês sabem, sou criadora de conteúdo aqui no [Youtube](https://youtube.com/RafaellaBallerini), no [Instagram](https://instagram.com/rafaballerini), [TikTok](https://www.tiktok.com/@rafaballerini), [Linkedin](https://www.linkedin.com/in/rafaellaballerini/), tenho também [minha comunidade no Discord](https://discord.gg/RjhfZXaVDC) e acabo precisando de um lugar pra agregar ideias que passam pela minha cabeça do nada durante o dia, assim não perco elas e fico frustrada depois (coisa que já aconteceu muito rs)
+(https://instagram.com/anelineane), [TikTok](https://www.tiktok.com/@anecosta), [Linkedin](https://www.linkedin.com/in/anelinesilva/), tenho também [minha comunidade no Discord](https://discord.gg/RjhfZXaVDC) e acabo precisando de um lugar pra agregar ideias que passam pela minha cabeça do nada durante o dia, assim não perco elas e fico frustrada depois (coisa que já aconteceu muito rs)
 
 **5. Identidade visual:** aqui deixo as mídias que uso em cada uma das minhas redes sociais, além dos preços pra divulgação e parcerias e tamplates de emails recorrentes
 
